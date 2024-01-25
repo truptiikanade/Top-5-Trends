@@ -1,2 +1,2 @@
 # Top-5-Trends
-Analyze Top 5 Trending Contern By Given Data Set
+Analyze Top 5 Trending Content By Given Data Set.
